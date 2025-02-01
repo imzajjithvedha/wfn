@@ -1,5 +1,4 @@
 import Link from "next/link";
-import styles from "../../(public)/(css)/register.module.css";
 
 export const metadata = {
   title: "Login",
